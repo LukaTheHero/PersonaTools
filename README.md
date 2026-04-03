@@ -65,9 +65,17 @@ On first launch, PersonaTools will automatically import:
 
 No manual migration needed!
 
+
+## Credits
+
+PersonaTools is built upon the work of:
+- [Extension-QuickPersona](https://github.com/SillyTavern/Extension-QuickPersona) by Cohee1207
+- [SillyTavern-Personas](https://github.com/Furitaocanon/SillyTavern-Personas) by Desespoir
+- [Persona Tags](https://github.com/Samueras/PersonaTags) by Samueras
+
 ## License
 
-This project is licensed under the GNU General Public License v3.0 — see the [LICENSE] file for details.
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
